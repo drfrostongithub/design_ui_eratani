@@ -1,0 +1,49 @@
+{
+  "aboutUs": "Eratani adalah perusahaan Agri-tech yang didirikan oleh anak bangsa. Berangkat dari mimpi dan semangat yang besar, Eratani memiliki misi untuk menyejahterakan petani nusantara dengan mempermudah jalannya proses pertanian dari hulu sampai hilir. Melalui digitalisasi proses hulu (pendanaan petani, pengelolaan rantai pasokan) hingga proses hilir (distribusi & penyaluran hasil panen), Eratani berfokus membangun ekosistem pertanian yang kuat dan berusaha memberikan kemudahan akses kepada petani dengan teknologi untuk meningkatkan produktivitas dan kesejahteraan ekosistem pertanian.",
+  "vision": "Menjadi platform Agri-Tech no.1 di Indonesia dengan membangun ekosistem pertanian yang kuat dari hulu ke hilir, mulai dari pembiayaan, pengadaan barang, edukasi, sampai distribusi hasil panen dan memberikan kemudahan bagi petani untuk mendapatkan akses dengan dukungan teknologi  untuk mensejahterahkan kehidupan petani di Indonesia kedepannya.",
+  "mission": [
+    "Membangun dan memajukan ekosistem pertanian dengan digitalisasi dan transparansi di setiap prosesnya.",
+    "Menjadi platform dan mitra bagi petani dalam mendukung segala proses pertanian.",
+    "Menjadi mitra bagi para kreditor, supplier, dan distributor guna meningkatkan kinerja rantai pasok di dunia pertanian.",
+    "Berkolaborasi dengan badan usaha pangan guna meningkatkan ketahanan pangan nasional.",
+    "Memberikan dampak sosial yang positif dan membangun bagi ekosistem pertanian di Indonesia."
+  ],
+  "team": [
+    {
+      "name": "Andrew Soeherman",
+      "role": "CEO",
+      "photo": "CEO.png"
+    },
+     {
+      "name": "Kevin Juan",
+      "role": "SVP Business & Operations",
+      "photo": "SVPBO.png"
+    },
+    {
+      "name": "Anglos Gani",
+      "role": "SVP Sales",
+      "photo": "SVPSales.png"
+    },
+    {
+      "name": "Bharat Ongso",
+      "role": "Advisor",
+      "photo": "Advisor1.png"
+    },
+    {
+      "name": "Riswanto",
+      "role": "Advisor",
+      "photo": "Advisor2.png"
+    }
+  ], 
+  "address": "Jl. Casablanca Raya Kav 88, Kel. Menteng Dalam, Kec. Tebet, Gedung Pakuwon Tower Lt 26 Unit J, Jakarta Selatan, DKI Jakarta 12870, Indonesia",
+  "contact": {
+    "email": "info.eratani@eratani.co.id",
+    "telephone": "+62 811 952 2577"
+  },
+  "menu": [
+    "Tim Kami",
+    "Mitra Eratani",
+    "Tips & Berita Pertanian",
+    "Karir"
+  ]
+}
